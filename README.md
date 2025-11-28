@@ -5,20 +5,20 @@ Provides insights into revenue, orders, categories, sizes, and best/worst-sellin
 
 
 
-Key Features
+Key Features:
 Total revenue, avg order value, total orders & pizzas sold.
 Daily & monthly order trends.
 Sales by pizza category & size.
 Top 5 and Bottom 5 pizzas by revenue, quantity & orders.
 Page navigation using buttons & slicers.
 
-🛠️ Tools Used
+🛠️ Tools Used:
 Power BI Desktop.
 DAX Measures.
 Power Query (ETL).
 Data Modeling (Star Schema).
 
-💡 Insights
+💡 Insights:
 Orders peak on weekends, highest on Friday.
 July has the most orders.
 Classic category leads revenue.
