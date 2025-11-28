@@ -1,7 +1,11 @@
 # Pizza Sales Report (Power BI Dashboard)
 Interactive Power BI dashboard analyzing pizza sales from Jan 2015 – Dec 2015.
 Provides insights into revenue, orders, categories, sizes, and best/worst-selling pizzas..
-<img width="600" height="400" alt="Screenshot 2025" src="https://github.com/user-attachments/assets/f1e67480-2321-4965-8ec3-433f0710fa21" />  <img width="600" height="400" alt="Screenshot 202" src="https://github.com/user-attachments/assets/fe8c7d36-f308-4449-9d4d-152a6adf5d06" />
+
+
+<img width="600" height="400" alt="Screenshot 2025" src="https://github.com/user-attachments/assets/f1e67480-2321-4965-8ec3-433f0710fa21" />  
+
+<img width="600" height="400" alt="Screenshot 202" src="https://github.com/user-attachments/assets/fe8c7d36-f308-4449-9d4d-152a6adf5d06" />
 
 
 
