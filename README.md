@@ -28,4 +28,5 @@ July has the most orders.
 Classic category leads revenue.
 Large pizzas dominate sales.
 Thai Chicken Pizza = highest revenue.
+
 Brie Carre Pizza = lowest performer.
